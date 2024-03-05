@@ -1,4 +1,4 @@
-# sql-challenge
+# Employee Data Analysis
 
 This project involves writing a <a href = "https://github.com/ElleNaazB/sql-challenge/blob/main/EmployeeSQL/EmployeeSQL.sql">query</a> that effectively gathers detailed information on employees within an organizational <a href ="https://github.com/ElleNaazB/sql-challenge/tree/main/EmployeeSQL/data">information</a>. It lists essential details like employee number, last name, first name, sex, and salary for all employees, providing a complete overview. The query also identifies employees hired in 1986 by their names and hire dates, offering insights into hiring trends.
 
